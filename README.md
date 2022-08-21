@@ -3,8 +3,8 @@
 <h2>👨‍💻 Please check out my self-made done projects below:</h2>
 
 - <b>Microsoft Excel</b>
-  - [Praciting dashboard in MS Excel](https://github.com/Shaletanu/MSExcel-Projects)
-
+  - [Yearly Sales analysis using PivotTable in MS Excel](https://github.com/Shaletanu/MSExcel-Projects)
+- <b>SQL</b>
 
 
 <h2> 🤳 Connect with me:</h2>

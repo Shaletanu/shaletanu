@@ -4,7 +4,8 @@
 
 - <b>Microsoft Excel</b>
   - [Yearly Sales analysis using PivotTable in MS Excel](https://github.com/Shaletanu/MSExcel-Projects)
-- <b>SQL</b>
+  - [Bike Sales Dashboard](https://github.com/Shaletanu/Bike-Sales-Dashboard)
+
 
 
 <h2> 🤳 Connect with me:</h2>

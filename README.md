@@ -6,6 +6,7 @@
   - [Yearly Sales analysis using PivotTable in MS Excel](https://github.com/Shaletanu/MSExcel-Projects)
   - [Bike Sales Dashboard](https://github.com/Shaletanu/Bike-Sales-Dashboard)
   - [FNP Sales Dashboard](https://github.com/Shaletanu/FNP-Sales-Analysis-Dashboard)
+  - [Adidas US Sales Dashboard](https://github.com/Shaletanu/Adidas-US-Sales-Dashboard)
 
 
 
